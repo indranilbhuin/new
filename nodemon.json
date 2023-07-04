@@ -1,0 +1,7 @@
+{
+    "watch": ["src"],
+    "ext": "js,jsx,ts,tsx,json",
+    "ignore": ["src/.next", "node_modules"],
+    "exec": "next"
+  }
+  
